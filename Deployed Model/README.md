@@ -1,12 +1,6 @@
 # Deploy Keras Model with Flask as Web App in 10 Minutes
 
 
-> A pretty and customizable web app to deploy your DL model with ease
-
-------------------
-
-## Getting started in 10 minutes
-
 - Clone this repo 
 - Install requirements
 - Run the script
