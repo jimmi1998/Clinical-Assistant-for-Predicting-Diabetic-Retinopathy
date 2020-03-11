@@ -12,7 +12,7 @@ There are multiple types of commonly used layers in ConvNets
 * Dropout layer - Used for reducing over-fitting. It randomly turns off some neurons at each pass during the training
 * Batch Normalisation - Normalises the output values thus reducing computation time. Also introduces regularisation effect\
 ![Conv Operation](http://machinelearninguru.com/_images/topics/computer_vision/basics/convolution/1.JPG)
-#### I have written an article on detecting diabetic retinopathy [here](https://medium.com/@s.ganjoo96/diabetic-retinopathy-detection-with-resnet50-b621514bd22b)
+
 ## Installation
 ### Download the data and clone this repository
 * Clone this repository to your computer.
